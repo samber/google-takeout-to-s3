@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:4242424242
+DTSTART:20190601
+SUMMARY:Time to backup Google Data !
+RRULE:FREQ=MONTHLY
+URL:https://takeout.google.com/settings/takeout
+END:VEVENT
+END:VCALENDAR
